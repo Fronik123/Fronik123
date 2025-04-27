@@ -11,7 +11,9 @@
 ![NodeJS](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge&logo=node.js&logoColor=47C5FB)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass&logoColor=CF649A)
 ![React Native](https://img.shields.io/badge/-REACT%20NATIVE-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 
