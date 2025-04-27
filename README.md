@@ -11,6 +11,8 @@
 ![NodeJs](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![React Native](https://img.shields.io/badge/-REACT%20NATIVE-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 ### ✉️ Mail me: askolya23@gmail.com
