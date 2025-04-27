@@ -8,7 +8,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge)
+
+![NestJS](https://img.shields.io/badge/-090909?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
