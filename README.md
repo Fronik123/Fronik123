@@ -6,8 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
-![API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=api&logoColor=00B0B9)
 ![NestJS](https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge&logo=node.js&logoColor=47C5FB)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
