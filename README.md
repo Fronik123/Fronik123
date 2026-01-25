@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-## I'm *Software Engineer*
+## I'm *full-stack developer*
 
 ### Languages and Technologies 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
