@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-## I'm *Full-Stack developer*
+## I'm *Full Stack developer*
 
 ### Languages and Technologies 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
