@@ -12,6 +12,8 @@
 ![NodeJS](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge&logo=node.js&logoColor=47C5FB)
 ![NestJS](https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express&logoColor=white)
+![Express.js]([https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white
+))
 
 
 
