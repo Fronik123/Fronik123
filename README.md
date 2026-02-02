@@ -13,7 +13,7 @@
 ![NestJS](https://img.shields.io/badge/-NESTJS-090909?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
 
 
